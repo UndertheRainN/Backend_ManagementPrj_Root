@@ -1,0 +1,24 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Gateway.git
+[submodule "microservices/auth-svc"]
+	path = microservices/auth-svc
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Auth-SVC.git
+[submodule "microservices/chat"]
+	path = microservices/chat
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Chat.git
+[submodule "microservices/email"]
+	path = microservices/email
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Email.git
+[submodule "microservices/firebase"]
+	path = microservices/firebase
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Firebase.git
+[submodule "microservices/setting-svc"]
+	path = microservices/setting-svc
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Setting-SVC.git
+[submodule "microservices/users-svc"]
+	path = microservices/users-svc
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Users-SVC.git
+[submodule "microservices/worker-svc"]
+	path = microservices/worker-svc
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Worker-SVC.git
