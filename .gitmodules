@@ -22,3 +22,6 @@
 [submodule "microservices/worker-svc"]
 	path = microservices/worker-svc
 	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Worker-SVC.git
+[submodule "script/script"]
+	path = script/script
+	url = https://github.com/UndertheRainN/Backend_ManagementPrj_Script.git
